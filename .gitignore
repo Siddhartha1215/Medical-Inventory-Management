@@ -46,3 +46,5 @@ results/*.pth
 .DS_Store
 Thumbs.db
 
+results/q_table_labeled.csv
+results/view_qtable.py
